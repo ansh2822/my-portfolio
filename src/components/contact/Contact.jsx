@@ -47,7 +47,7 @@ const Contact = () =>
                     <article className="contact__option">
                         <BiLogoWhatsapp className='contact__option-icon' />
                         <h4>WhatsApp</h4>
-                        <a href='https://api.whatsapp.com/send?phone=9205972231' target='_blank'>WhatsApp Me</a>
+                        <a href='https://api.whatsapp.com/send?phone=919205972231' target='_blank'>WhatsApp Me</a>
                     </article>
                 </div>
                 <form ref={form} onSubmit={sendEmail}>
