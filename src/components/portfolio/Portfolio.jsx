@@ -4,6 +4,7 @@ import IMG1 from '../../assets/Project1.png'
 import IMG2 from '../../assets/Project2.png'
 import IMG3 from '../../assets/Project-3.png'
 import IMG4 from '../../assets/Project4.png'
+import IMG5 from '../../assets/Project5.png'
 
 
 const data = [
@@ -34,7 +35,14 @@ const data = [
         title: 'Split Bill',
         github: 'https://github.com/ansh2822/SPLIT_BILL',
         demo: 'https://split-bill-beta.vercel.app/'
-    }
+    },
+    {
+        id: 5,
+        image: IMG5,
+        title: 'Currency Converter',
+        github: 'https://github.com/ansh2822/currency-conversion.git',
+        demo: 'https://currency-conversion-ewr9.vercel.app/'
+    },
 ]
 
 
