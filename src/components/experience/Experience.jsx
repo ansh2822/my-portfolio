@@ -16,7 +16,7 @@ const Experience = () =>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>HTML</h4>
+                                <h4>HTML|CSS</h4>
                                 <small className='text-light'>Experienced</small>
                             </div>
                         </article>
@@ -24,7 +24,7 @@ const Experience = () =>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>CSS</h4>
+                                <h4>Next JS</h4>
                                 <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
@@ -56,7 +56,7 @@ const Experience = () =>
                         <article className='experience__details'>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
-                                <h4>React</h4>
+                                <h4>React JS</h4>
                                 <small className='text-light'>Experienced</small>
                             </div>
                         </article>
@@ -88,6 +88,14 @@ const Experience = () =>
                             <BsPatchCheckFill className='experience__details-icon' />
                             <div>
                                 <h4>MySQL</h4>
+                                <small className='text-light'>Intermediate</small>
+                            </div>
+                        </article>
+
+                        <article className='experience__details'>
+                            <BsPatchCheckFill className='experience__details-icon' />
+                            <div>
+                                <h4>Express JS</h4>
                                 <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
