@@ -5,6 +5,7 @@ import IMG2 from '../../assets/Project2.png'
 import IMG3 from '../../assets/Project-3.png'
 import IMG4 from '../../assets/Project4.png'
 import IMG5 from '../../assets/Project5.png'
+import IMG6 from '../../assets/Project6.png'
 
 
 const data = [
@@ -43,6 +44,13 @@ const data = [
         github: 'https://github.com/ansh2822/currency-conversion.git',
         demo: 'https://currency-conversion-ewr9.vercel.app/'
     },
+    {
+        id: 6,
+        image: IMG6,
+        title: 'Prompt Forge',
+        github: 'https://github.com/ansh2822/promptforge',
+        demo: 'https://my-portfolio-mu-fawn.vercel.app/'
+    }
 ]
 
 
