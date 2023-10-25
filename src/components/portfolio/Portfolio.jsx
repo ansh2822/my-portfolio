@@ -49,7 +49,7 @@ const data = [
         image: IMG6,
         title: 'Prompt Forge',
         github: 'https://github.com/ansh2822/promptforge',
-        demo: 'https://my-portfolio-mu-fawn.vercel.app/'
+        demo: 'https://promptforge.vercel.app/'
     }
 ]
 
